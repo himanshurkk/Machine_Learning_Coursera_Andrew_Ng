@@ -16,5 +16,10 @@ Try to solve all the assignments by yourself first, but if you get stuck somewhe
 - Anomaly Detection
 - Recommender System
   
+# Certificate
+This is my [Certificate](https://coursera.org/share/5f15bedb01791c9f394391daa55c37e2)
+
+
 # References
 [Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
+
